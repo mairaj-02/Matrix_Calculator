@@ -37,16 +37,16 @@ This is a modular Python application for performing mathematical operations on *
 2. Select an Operation:
     Upon successful login, the user is presented with the following menu:
 
- Matrix Operations Menu:
-    1. Add Matrices
-    2. Subtract Matrices
-    3. Multiply Matrices
-    4. Divide Matrices
-    5. Compare Determinants
-    6. Find Eigenvalues
-    7. Compute Matrix Power
-    8. Find Inverse
-    9. Exit
+Matrix Operations Menu:
+1. Add Matrices
+2. Subtract Matrices
+3. Multiply Matrices
+4. Divide Matrices
+5. Compare Determinants
+6. Find Eigenvalues
+7. Compute Matrix Power
+8. Find Inverse
+9. Exit
 
     Select the operation, input the matrix or matrices **(2x2)**, and get the result.
 
