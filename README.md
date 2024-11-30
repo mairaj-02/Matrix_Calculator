@@ -48,7 +48,7 @@ Matrix Operations Menu:
 8. Find Inverse
 9. Exit
 
-    Select the operation, input the matrix or matrices **(2x2)**, and get the result.
+Select the operation, input the matrix or matrices **(2x2)**, and get the result.
 
 ## Modules and Libraries
 
