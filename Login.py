@@ -1,6 +1,3 @@
-# GroupB15
-# Contact Person: Muhammad MAIRAJ (23098864d)
-
 import os
 import hashlib
 
