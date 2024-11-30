@@ -68,7 +68,7 @@ Select the operation, input the matrix or matrices **(2x2)**, and get the result
 
 I am trying to improve this project by adding further functionalities and accepting larger matrices so contributions are welcome! Follow these steps to contribute:
 
-    Fork the repository.
+Fork the repository.
 
 Create a feature branch:
 
@@ -80,7 +80,7 @@ Commit your changes:
 
 Push to your branch:
 
-    `git push origin feature/YourFeature`
+ `git push origin feature/YourFeature`
 
 Submit a pull request.
 
