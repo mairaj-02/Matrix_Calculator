@@ -26,7 +26,7 @@ This is a modular Python application for performing mathematical operations on *
 
 3. Run the application: 
 
-    Open the Main.ipynb file in **Jupyter Notebook** and execute it.
+    Copy the code in Main.py file into another ipynb notebook **Jupyter Notebook** and execute it.
 
 ### Usage
 
